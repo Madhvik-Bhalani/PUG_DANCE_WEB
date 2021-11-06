@@ -1,0 +1,17 @@
+***NEW DATA***
+ name:-krishna yadav
+ no:-9999
+ mail:-krishna404@gmail.com
+ more:-i am the creator of earth
+
+***NEW DATA***
+ name:-ram
+ no:-8888
+ mail:-ram405@gmail.com
+ more:-i am the handler of earth
+
+***NEW DATA***
+ name:-meet
+ no:-409
+ mail:-meet@gmail.com
+ more:-i am meet
